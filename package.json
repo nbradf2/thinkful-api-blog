@@ -1,0 +1,29 @@
+{
+  "name": "thinkful-api-blog",
+  "version": "1.0.0",
+  "description": "Thinkful API blog challenge",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbradf2/thinkful-api-blog.git"
+  },
+  "keywords": [
+    "thinkful",
+    "CRUD",
+    "API",
+    "JavaScript",
+    "jQuery",
+    "blog"
+  ],
+  "author": "Nicole E. Bradford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbradf2/thinkful-api-blog/issues"
+  },
+  "homepage": "https://github.com/nbradf2/thinkful-api-blog#readme"
+}
